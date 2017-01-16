@@ -14,9 +14,10 @@ Compile react javascript into vanilla js into public/js folder
 npm start
 ```
 
-Browse over the server
+Browse over the target folder
 ```
-http://localhost:8080/
+Open public/index.js
 ```
 
-![React Tube](reactjs-tube.png "React Tube")
+![React Shop](reactjs-shop1.png "React Shop")
+![React Shop](reactjs-shop2.png "React Shop")
