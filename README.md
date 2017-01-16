@@ -16,7 +16,7 @@ npm start
 
 Browse over the target folder
 ```
-Open public/index.js
+open public/index.js
 ```
 
 ![React Shop](reactjs-shop1.png "React Shop")
